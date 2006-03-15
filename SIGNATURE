@@ -14,13 +14,13 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 e0f8b92c0db795678a56279dd146bb24fd511470 Changes
+SHA1 8587d14a3a92bcc39bfa74bbbbfe32276022ac4b Changes
 SHA1 7e1ca272d230ec88334434fbcd585adeb7002726 MANIFEST
-SHA1 0904a004431f3a0a8ad72fd9fc9ad0a32f663aa4 META.yml
+SHA1 99870032fc146d659cb89f65a002769df53d4832 META.yml
 SHA1 ce99b81679ec3f7769ecd6234705bb96810e0704 Makefile.PL
 SHA1 b1ed611474220f9041681e1c65f23275e5e92eba README
 SHA1 210167be87ded0a6fd6d5d003d82598aab75c965 html/Callbacks/RT-Extension-MenubarSearches/Elements/Tabs/Default
-SHA1 f0992f554c27113dfe4b74385ed5465f9849d8e7 html/RT-Extension-MenubarSearches/List
+SHA1 706dc361ec8eb3c973fc2237b7bad461316c6d38 html/RT-Extension-MenubarSearches/List
 SHA1 f9c97d61559ec61f71685f326bf77b727386cf19 inc/Module/Install.pm
 SHA1 9dbed9ff1790473ec3136a606f062fa050326c43 inc/Module/Install/Base.pm
 SHA1 d37430abee4687a4861b1312e5bea6953e6afe4d inc/Module/Install/Can.pm
@@ -30,11 +30,11 @@ SHA1 49e0d839edeb0f3e9af12fd2444b98365393a23e inc/Module/Install/Metadata.pm
 SHA1 f502de0d0610ec3a8a2dd0e32c9e12e2971a96aa inc/Module/Install/RTx.pm
 SHA1 2a1b494a7e5adaa3216e86d909dd5bf87d084c80 inc/Module/Install/Win32.pm
 SHA1 4a23fafe534363a99f0d936df9086ad243e692c9 inc/Module/Install/WriteAll.pm
-SHA1 c556ea2ea23911d69e05434f95fd612e9c3bd148 lib/RT/Extension/MenubarSearches.pm
+SHA1 5659b7827b6e11619bcec6349d24866f7e5b0a55 lib/RT/Extension/MenubarSearches.pm
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.1 (GNU/Linux)
 
-iD8DBQFEF0dwEi9d9xCOQEYRAh0vAKCRz4LFL6D2Hz7OIS6tMMEZYuXkLQCgmkws
-XL5fZZhCMnKaStrKwAUhwnI=
-=+eFA
+iD8DBQFEF2rCEi9d9xCOQEYRAgoZAKCNlN6+0peu9zNTWNHdkQBJo+muvQCgoVuX
+ceKbtHYjLXJzsGAJgbU/hFw=
+=Fh8J
 -----END PGP SIGNATURE-----
